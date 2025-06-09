@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @surinovmail
+- 👋 Hi, I’m Sherzod Urinov
 - 👀 I’m interested in mobile programming
-- 🌱 I’m currently learning Compose Multiplatform
+- 🌱 I’m currently learning Compose Multiplatform (KMP)
 - 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me : Email: surinovmail@gmail.com
+- 📫 How to reach me : Email: 1sherzodurinov@gmail.com
 - 😄 Pronouns: none
 - ⚡ Fun fact: null
 
